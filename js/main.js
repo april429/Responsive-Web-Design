@@ -1,3 +1,4 @@
+// Reference Code
 let icon = document.getElementsByClassName("icon")[0];
 
 icon.addEventListener('click', responsive_control);
